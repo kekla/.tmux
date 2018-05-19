@@ -269,3 +269,4 @@ bind a send-prefix
 
 unbind Tab
 bind C-a last-window
+set -g base-index 0
